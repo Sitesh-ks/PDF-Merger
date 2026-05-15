@@ -518,7 +518,7 @@ const PDFMerger = () => {
           rel="noopener noreferrer"
           className={`text-xs ${theme === 'dark' ? 'text-gray-700 hover:text-gray-400' : 'text-gray-400 hover:text-gray-700'} transition-colors inline-flex items-center gap-1.5`}
         >
-          Coded by <span className="font-medium">@berkindev</span>
+          Coded by <span className="font-medium">@sks</span>
         </a>
       </footer>
 
