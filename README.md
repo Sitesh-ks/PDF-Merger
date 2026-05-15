@@ -6,11 +6,6 @@ Just clean merging.
 
 ---
 
-## 🚀 Live Demo
-👉 https://pdf-merger-psi-beryl.vercel.app/
-
----
-
 ## ✨ Features
 - Merge up to **15 PDFs** (max 150MB total)
 - Drag & drop support
@@ -65,7 +60,6 @@ Your files never leave your device.
 ## 📦 Installation
 ```bash
 # Clone the repo
-git clone https://github.com/berkindev/pdf-merger.git
 
 # Install dependencies
 cd pdf-merger
